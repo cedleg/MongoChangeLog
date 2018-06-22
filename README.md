@@ -1,5 +1,5 @@
-# MongoChangeSet
-ChangeSet and CRUD with mongobee
+# MongoChangeLog
+mongobee ChangeLog and CRUD
 
 ## Built With
 
